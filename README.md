@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del módulo 2 del curso
+Este proyecto es una prueba de como crear un repositorio en la nube y clonarlo con github a la pc.
